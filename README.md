@@ -130,6 +130,13 @@ Your IEEE paper template is ready for editing!
 
 ---
 
+
+## 🎥 Demo (GIF Preview)
+
+![LaTeX Setup Demo](media/LaTeX.gif)
+
+---
+
 ## 🙌 Credits
 
 Created by **Hugo Markoff**  
