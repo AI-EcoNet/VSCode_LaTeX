@@ -119,6 +119,10 @@ Your IEEE paper template is ready for editing!
 
 ---
 
+You may have to restart your VS Code for some effects to work. So if you have issues, like complaining about perl when compiling, please restart and try again. 
+
+---
+
 ## ⚡ Features
 
 - Automatic **MiKTeX fixes** (latexmk, script engines)  
